@@ -1,0 +1,5 @@
+/venv
+/media/upload
+core/__pycache__
+
+/db.sqlite3
